@@ -1,7 +1,7 @@
 # LegacyColorCodeParser
 
 ## Description
-A simple library to parse hex formats to the legacy (&x&r&r&g&g&b&b) format.
+A simple library to parse hex formats (&#rrggbb) into the legacy (&x&r&r&g&g&b&b) format.
 
 ## Maven
 ```
